@@ -149,7 +149,7 @@ GEM
     diff-lcs (1.2.5)
     docile (1.1.5)
     equalizer (0.0.11)
-    excon (0.55.0)
+    excon (0.78.1)
     factory_girl (2.4.2)
       activesupport
     faraday (0.9.2)
