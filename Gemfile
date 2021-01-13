@@ -43,7 +43,7 @@ gem 'jemalloc'
 gem 'customerio'
 
 gem "redlock"
-gem 'rake', '~> 0.9.2'
+gem 'rake', '~> 12.3.3'
 
 group :test do
   gem 'rspec',         '~> 2.13'
